@@ -1,0 +1,36 @@
+<!-- cute.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Why You're Cute</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <audio autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <header>
+    <h1>Why You're So Cute 😍</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="cute.html">Why You're Cute</a>
+      <a href="moments.html">Favorite Moments</a>
+      <a href="notes.html">Sweet Notes</a>
+    </nav>
+  </header>
+  <main>
+    <ul class="list">
+      <li>Your smile is contagious ✨</li>
+      <li>You make everything more fun 🎉</li>
+      <li>You always know how to cheer me up 🧸</li>
+      <li>You're just so effortlessly cool 😎</li>
+    </ul>
+  </main>
+  <footer>
+    <p>You're awesome just the way you are 💐</p>
+  </footer>
+</body>
+</html>

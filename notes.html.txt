@@ -1,0 +1,39 @@
+<!-- notes.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sweet Notes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <audio autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <header>
+    <h1>Sweet Notes 📝</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="cute.html">Why You're Cute</a>
+      <a href="moments.html">Favorite Moments</a>
+      <a href="notes.html">Sweet Notes</a>
+    </nav>
+  </header>
+  <main>
+    <blockquote>
+      You’re such a wonderful friend, and I always look forward to talking to you. 🫶
+    </blockquote>
+    <blockquote>
+      You make boring days fun just by being yourself! ☀️
+    </blockquote>
+    <blockquote>
+      Thank you for being so easy to talk to and so fun to be around. 😊
+    </blockquote>
+  </main>
+  <footer>
+    <p>Best friends forever 🧡</p>
+  </footer>
+</body>
+</html>

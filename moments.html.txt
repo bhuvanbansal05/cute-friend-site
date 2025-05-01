@@ -1,0 +1,31 @@
+<!-- moments.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Favorite Moments</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <audio autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <header>
+    <h1>Favorite Moments Together ⏳</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="cute.html">Why You're Cute</a>
+      <a href="moments.html">Favorite Moments</a>
+      <a href="notes.html">Sweet Notes</a>
+    </nav>
+  </header>
+  <main>
+    <p>Even if we haven't done everything yet, every chat and silly laugh is one of my favorite memories 💭</p>
+  </main>
+  <footer>
+    <p>So many more good times ahead ✨</p>
+  </footer>
+</body>
+</html>
